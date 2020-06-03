@@ -2,7 +2,7 @@
 Java program developed using Eclipse during my Grade 12 Computer Science course during High School (spring 2019).
 
 ## Run Instructions
-Download and extract the [Traffic Simulator.zip](https://github.com/justinbauer-1/TrafficSimulator/blob/master/Traffic%20Simulator.zip) file to see the program in action. On the other hand, you can download all the files and run the AnimationFrame.java file to start the program.
+Download and extract the [Traffic Simulator.zip](https://github.com/justinbauer-1/TrafficSimulator/blob/master/Traffic%20Simulator.zip) file and run `TrafficSimulator.jar` to see the program in action. On the other hand, you can download all the files and run the AnimationFrame.java file to start the program.
 
 ## Program Controls
 * Arrow keys up and down - Increase or decrease the number of cars
