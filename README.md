@@ -5,9 +5,9 @@ Java program developed using Eclipse during my Grade 12 Computer Science course 
 Download the [TrafficSimulator.jar](https://github.com/justinbauer-1/TrafficSimulator/blob/master/TrafficSimulator.jar) file to see the program in action. On the other hand, you can download all the files and run the AnimationFrame.java file to start the program.
 
 ## Program Controls
-* Arrow keys up and down - increase or decrease the number of cars
-* Arrow keys left and right - increase or decrease the speed of the cars
-* Pause button - top left corner of window
+* Arrow keys up and down - Increase or decrease the number of cars
+* Arrow keys left and right - Increase or decrease the speed of the cars
+* Pause button - Top left corner of window
 * F1 and F2 - Zoom in and out
 * Ctrl + s - Disable spawn limit (warning program will lag or even crash with more than 100 cars) 
 * Ctrl + t - Enable turning (warning cars will collide, blocking other cars from moving) 
