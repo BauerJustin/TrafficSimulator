@@ -14,7 +14,7 @@ Download and extract the [TrafficSimulator.zip](https://github.com/justinbauer-1
 * Type Lightning McQueen's catchphrase for a secret Easter Egg
 
 ## Background
-I created this project due to my interest in self driving vehicles as well as my love for video games. Combining the ideas of Tesla's autopilot and the driving NPCs in the video game Grand Theft Auto, this program allowed me to apply the programming skills I learned during high school to several things that interested me. This project was for my final assignment in my Grade 12 Computer Science class and I had totally flexibility. My final grade on this project was 100% and my teacher said they were very impressed with my product.
+I created this project due to my interest in self driving vehicles as well as my love for video games. Combining the ideas of Tesla's autopilot and the driving NPCs in the video game Grand Theft Auto, this program allowed me to apply the programming skills I learned during high school to several things that interested me. This project was for my final assignment in my Grade 12 Computer Science class and I had total flexibility. My final grade on this project was 100% and my teacher said they were very impressed with my product.
 
 ## Building the project
 I started off with the base code provided by my teacher. This code created the animated window keeping it updated and applying the graphics. I first created the map in a csv file and correlating image tiles. Using a csv reader, the layout in the csv file was combined with the image tiles to create a road map. From there I created a basic car and controls to drive it around in the map. 
